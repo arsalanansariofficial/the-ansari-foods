@@ -1,0 +1,190 @@
+{
+  "beverages": {
+    "-NNaUPtOnoonfVTONX8l": {
+      "name": "MANGO MILK SHAKE"
+    },
+    "-NNaUSuilw3OL5DyyOwW": {
+      "name": "COFFEE"
+    },
+    "-NNaUhJ0nnP6MFWqeISr": {
+      "name": "LEMON JUICE"
+    },
+    "-NNaUsqSaCnaCH7O-tar": {
+      "name": "SAFFRON MILK"
+    }
+  },
+  "non-vegetables": {
+    "-NNWNHsagLchNIRJFZPc": {
+      "name": "CHIKEN KORMA"
+    },
+    "-NNWNKOKcW2vnNwSlG4j": {
+      "name": "MUTTON KORMA"
+    },
+    "-NNWNXBUYbJiCKbgKeoc": {
+      "name": "KORMA KALI MIRCH"
+    },
+    "-NNWNf7cO1fkUOCpOSQK": {
+      "name": "MUTTON STEW"
+    },
+    "-NNWNh6ZD4j2P9TqlLdv": {
+      "name": "FRY KEEMA"
+    },
+    "-NNWNuuHRo_bh6CEbeIK": {
+      "name": "MATAR BIRYANI"
+    },
+    "-NNWO3pj8RZokXV1arPk": {
+      "name": "KEEMA KABAB"
+    },
+    "-NNWO6M2Yhkr_kgPDdCE": {
+      "name": "SHAAMI KABAB"
+    },
+    "-NNWOF_4ztPSdRrz4OQb": {
+      "name": "AALOO KEEMA"
+    },
+    "-NNWOJ55ULaGd_-FSUFt": {
+      "name": "KEEMA KOFTA"
+    },
+    "-NNWOXNys28ad18G78O1": {
+      "name": "BHINDI KEEMA"
+    },
+    "-NNWPYAWledQzJFy85Tw": {
+      "name": "GAJAR  GOSHT"
+    },
+    "-NNWXFHS2CZmu0oSiiav": {
+      "name": "CHAKUNDAR GOSHT"
+    },
+    "-NNphEcJ2e5Irm18hkoL": {
+      "name": "BUTTER CHICKEN"
+    },
+    "-NNqVMTJaKv1JHfSi-MI": {
+      "name": "CHICKEN BIRYANI "
+    },
+    "-NNqW9kBixIX2yvZBQXE": {
+      "name": "CHICKEN "
+    },
+    "-NNqWCFs8xDzT8ZsfF7Z": {
+      "name": "CHICKEN "
+    }
+  },
+  "snacks": {
+    "-NNaVDE_6T0zPweC4lT5": {
+      "name": "AALOO BHAJI"
+    },
+    "-NNaVFWv0htUKkymfNPy": {
+      "name": "PYAAZ BHAJI"
+    },
+    "-NNaVpCyI-_wSVpWaM3c": {
+      "name": "AALOO TIKKI"
+    },
+    "-NNaVuNUQM0zRKP6-yOP": {
+      "name": "FRUIT SALAD "
+    },
+    "-NNaWKzriJ8ai8wDlXiW": {
+      "name": "AALOO PARATHA"
+    },
+    "-NNaWMiN2xS1XO6GvSsr": {
+      "name": "PYAAZ PARATHA"
+    },
+    "-NNa_WLaNgSV5tDrKMBX": {
+      "name": "PAAV BHAJI"
+    },
+    "-NNa_Y6IgzdrYQJx0IUY": {
+      "name": "PAKODI"
+    },
+    "-NNa_bTnxROevEla3jJv": {
+      "name": "BURGER"
+    },
+    "-NNa_eEXOFw01H9Tp56j": {
+      "name": "PASTA"
+    },
+    "-NNa_itmEjUo0UIRceF_": {
+      "name": "BHEL PURI"
+    },
+    "-NOnyseRffvxM9HLuKH0": {
+      "name": "SAMOSA"
+    }
+  },
+  "vegetables": {
+    "-NNWEwzXXeT2eg768zqc": {
+      "name": "URAD CHAWAL"
+    },
+    "-NNWLflNXMrCiF5PvWPU": {
+      "name": "AALOO SAAG"
+    },
+    "-NNWLik2SBi9k_ZzH6OY": {
+      "name": "AALOO MATAR"
+    },
+    "-NNWLmJ_ISvrGfXXkb_1": {
+      "name": "MIX VEG"
+    },
+    "-NNWLsPSka8Yd-BCEBPo": {
+      "name": "AALOO GOBHI"
+    },
+    "-NNWLupZlBql7P1Gwafz": {
+      "name": "AALOO AALE"
+    },
+    "-NNWLxbipzqYE87dt0SF": {
+      "name": "AALOO SEM"
+    },
+    "-NNWM--PxDXAXujd7Tqw": {
+      "name": "FRENCH BEANS"
+    },
+    "-NNWM25gCMNvOQJptM4B": {
+      "name": "AALOO BAIGAN"
+    },
+    "-NNWM4vTHiK-9-ul31HC": {
+      "name": "BAIGAN KA BHARTA"
+    },
+    "-NNWMAOkgW100c0vzNU6": {
+      "name": "LAUKI KI BHUJIA"
+    },
+    "-NNWMCxKLv1huNyrUYmC": {
+      "name": "LAUKI KA RAITA"
+    },
+    "-NNWMMrD4XUdbuLBoXmS": {
+      "name": "AALO KABAB"
+    },
+    "-NNWMRLCxhItcoMn99Q6": {
+      "name": "AALO KA BHURTA"
+    },
+    "-NNWMxucudUDpOT7fyQB": {
+      "name": "CHANE KA SAAG"
+    },
+    "-NNWN-KyxeEwSVYuD0H8": {
+      "name": "SARSON KA SAAG"
+    },
+    "-NNWN7VIfdqnyXMsdUuu": {
+      "name": "YAM LEAVES"
+    },
+    "-NNWNAe7F2NXCkidtN2V": {
+      "name": "CHAKUNDAR LEAVES"
+    },
+    "-NNWUxYIL459CtaBbfPR": {
+      "name": "CHOLE"
+    },
+    "-NNWV1Ygfa1F0YXychHI": {
+      "name": "MATAR PULAO"
+    },
+    "-NNWV3hmC_CScVrPkqq5": {
+      "name": "TAHERI"
+    },
+    "-NNWX2gAESzh_YrhCEyd": {
+      "name": "KADI CHAWAL"
+    },
+    "-NNaWCHlUd2feKn-HIQD": {
+      "name": "MASOOR DAAL"
+    },
+    "-NNaWEAQzMzB1D_2hBPx": {
+      "name": "MOONG DAAL"
+    },
+    "-NNaWrXnrnpgicMfmc62": {
+      "name": "ARHAR DAAL"
+    },
+    "-NNaWyvjumAfo83yLLaS": {
+      "name": "URAD DAAL"
+    },
+    "-NNaX2zgQZJHahW4IUGd": {
+      "name": "DAAL MAKHNI"
+    }
+  }
+}

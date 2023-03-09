@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Ansari Foods</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link rel="icon" type="image/png" href="images/house.png"/>
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+<div class="box-main">
+    <div class="box-border">
+        <div class="box-content">
+            <div class="container-image js-tilt" data-tilt>
+                <img src="images/house.png" alt="IMG">
+            </div>
+            <div class="container-form validate-form">
+                <span class="title">
+                    DAILY FOODS
+                </span>
+                <div class="container-button-input">
+                    <button class="submit-button" onclick="getVegMenu()">
+                        VEG
+                    </button>
+                </div>
+                <div class="container-button-input">
+                    <button class="submit-button" onclick="getNonVegMenu()">
+                        NON VEG
+                    </button>
+                </div>
+                <div class="container-button-input">
+                    <button class="submit-button" onclick="getSnackMenu()">
+                        SNACK
+                    </button>
+                </div>
+                <div class="container-button-input">
+                    <button class="submit-button" onclick="getBeverageMenu()">
+                        BEVERAGE
+                    </button>
+                </div>
+                <div class="text-center p-t-136">
+                    <p class="txt2">
+                        version <b>1.0</b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="animator/jquery-3.2.1.min.js"></script>
+<script src="animator/tilt.jquery.min.js"></script>
+<script src="js/index/index.js"></script>
+</html>
